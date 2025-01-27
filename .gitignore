@@ -1,0 +1,45 @@
+# Python-related ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+node_modules/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Backup and temporary files
+*.bak
+*.swp
+*~
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project-specific files to ignore
+app copy.py
+app-with-typings.py
