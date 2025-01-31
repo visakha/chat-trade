@@ -41,6 +41,17 @@
     background-color: #3498db;
 }
 
+/* Navigation links */
+.nav-link {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #3498db;  /* Light blue on hover for contrast */
+}
+
 /* Content area */
 .content {
     flex-grow: 1;

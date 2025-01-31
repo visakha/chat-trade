@@ -44,3 +44,33 @@ This Dash application provides interactive technical analysis for stocks, featur
 - Bollinger Bands
 - MACD
 - Stochastic Oscillator
+
+## Logging Configuration
+
+The application uses Python's built-in `logging` module for configurable logging. You can control the logging level using environment variables.
+
+### Logging Levels
+
+- `DEBUG`: Most verbose, shows all log messages
+- `INFO`: Shows general information
+- `WARNING`: Shows only warnings and errors
+- `ERROR`: Shows only error messages
+- `CRITICAL`: Shows only critical error messages
+
+### Setting Log Level
+
+You can set the log level using the `LOG_LEVEL` environment variable:
+
+```bash
+# Set log level to DEBUG
+export LOG_LEVEL=DEBUG
+
+# Run the application
+python app.py
+```
+
+### Log Outputs
+
+Logs are output to:
+- Console (standard output)
+- `app.log` file in the project directory
