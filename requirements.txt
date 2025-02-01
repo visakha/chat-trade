@@ -1,7 +1,7 @@
-dash==2.16.1
-plotly==5.18.0
-pandas==2.2.0
-numpy==1.26.3
+dash==2.18.2
+plotly==5.24.1
+pandas==2.2.3
+numpy==2.2.2
 gunicorn==21.2.0
 pip==25.0
 Flask<3.1
@@ -12,3 +12,9 @@ multitasking==0.0.11
 typing-extensions==4.9.0
 # Add logging configuration
 python-json-logger==2.0.7  # Optional: for more advanced JSON logging
+# ░▒▓   …\chat-trade   main !?   17:41 
+# ❯ pip3.12.exe  install ploty
+# WARNING: Ignoring invalid distribution ~lotly (C:\Users\vamsi\AppData\Local\Programs\Python\Python312\Lib\site-packages)
+# ERROR: Could not find a version that satisfies the requirement ploty (from versions: none)
+# ERROR: No matching distribution found for ploty
+

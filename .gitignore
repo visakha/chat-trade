@@ -1,3 +1,9 @@
+# Project-specific files to ignore
+app copy.py
+app-with-typings.py
+resources/do-not-share/*
+
+
 # Python-related ignores
 __pycache__/
 *.py[cod]
@@ -40,6 +46,3 @@ dist/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Project-specific files to ignore
-app copy.py
-app-with-typings.py
