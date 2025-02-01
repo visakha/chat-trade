@@ -2,8 +2,8 @@
 app copy.py
 app-with-typings.py
 resources/do-not-share/*
-
-
+resources/split_files/*
+resources/trade_data.sqlite
 # Python-related ignores
 __pycache__/
 *.py[cod]
