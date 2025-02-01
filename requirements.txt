@@ -12,9 +12,5 @@ multitasking==0.0.11
 typing-extensions==4.9.0
 # Add logging configuration
 python-json-logger==2.0.7  # Optional: for more advanced JSON logging
-# ░▒▓   …\chat-trade   main !?   17:41 
-# ❯ pip3.12.exe  install ploty
-# WARNING: Ignoring invalid distribution ~lotly (C:\Users\vamsi\AppData\Local\Programs\Python\Python312\Lib\site-packages)
-# ERROR: Could not find a version that satisfies the requirement ploty (from versions: none)
-# ERROR: No matching distribution found for ploty
+
 
